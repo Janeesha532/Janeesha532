@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611wf79qly8p72n85htatikdog8aax4z6ufixpwyfbp&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="300">
+  <img src="" alt="Coding GIF" width="300">
 </p>
 
  Hi, I’m Janeesha532! 👋  
