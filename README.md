@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast who loves explo
 ---
 
 
-## 😄 Pronouns:
+ 😄 Pronouns:
 **He/Him**
 
 ---
@@ -107,7 +107,7 @@ I enjoy blending creativity with technology, whether through coding, designing i
 🏆 GitHub Trophies
 
 <p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=SupunPrabodha&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub tropies">
+<img src="https://github-profile-trophy.vercel.app/?username=Janeesha532&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub tropies">
 </p>
   
  🔝 Top Contributed Repo
