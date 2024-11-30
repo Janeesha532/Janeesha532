@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast who loves explo
 
 
  😄 Pronouns:
-**He/Him**
+She/her
 
 ---
 
