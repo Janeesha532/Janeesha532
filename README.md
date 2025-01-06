@@ -56,7 +56,22 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast who loves explo
 
  😄 Pronouns:
 **She/her**
+---
 
+
+ 📫 How to reach me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/Janeesha-6226b1248" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/janeesha/profilecard/?igsh=aWFkMnV0dmNvbnlw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  
+  <a href="https://wa.me/711911015" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 ---
 
 ⚡ Fun fact:
